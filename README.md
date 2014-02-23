@@ -1,4 +1,4 @@
-notatki-do-wyk-adu-z-pspi
+notes
 =========================
 
-notes
+otatki do wykładu z pspi
