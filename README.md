@@ -1,4 +1,4 @@
 notes
 =========================
 
-otatki do wykładu z pspi
+notatki do wykładu z pspi
