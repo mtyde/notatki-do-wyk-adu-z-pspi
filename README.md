@@ -1,4 +1,5 @@
 notes
 =========================
+Pierwszy program w C
 
-notatki do wykładu z pspi
+
