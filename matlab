@@ -1,5 +1,7 @@
 ## Tabelki
 
-1. Tchniki wspomagania
-2. Techniki internetowe
+New life
+
+1. [Techniki wspomagania]
+2. [Techniki internetowe]
 
